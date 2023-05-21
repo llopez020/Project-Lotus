@@ -3,6 +3,8 @@
 Play as Fi in a halloween themed adventure! Slay bosses and collect power-ups in order to save the world!
 
 Work in Progress, currently has one available boss to fight, boss 2.
+![Alt text](/media/controls.jpg?raw=true "")
+
 
 ## Technologies
 Lua, PICO-8
