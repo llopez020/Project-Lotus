@@ -25,15 +25,15 @@ In PICO-8, load proj_lotus_run.p8 and run.
 
 ## Controls
 
-WASD - Move
-E - Interact
-Space - Jump
-Left Mouse - Swipe
-Right Mouse - Spell
+WASD - Move<br/>
+E - Interact<br/>
+Space - Jump<br/>
+Left Mouse - Swipe<br/>
+Right Mouse - Spell<br/>
 Left Shift - Dash
 
 ## Credits
-Levi Lopez - Core Gameplay
+Levi Lopez - Core Gameplay<br/>
 @gruber_music - Music
 
 ## License 
