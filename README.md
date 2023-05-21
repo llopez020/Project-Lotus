@@ -9,7 +9,7 @@ Lua, PICO-8
 
 ## Instructions
 
-* Requires a copy of PICO-8 *
+** Requires a copy of PICO-8 **
 
 Download all files and place proj_lotus.lua, proj_lotus_room.p8, proj_lotus_run.p8, project_lotus.p8 in the carts folder.
 
