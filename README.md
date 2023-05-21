@@ -3,7 +3,13 @@
 Play as Fi in a halloween themed adventure! Slay bosses and collect power-ups in order to save the world!
 
 Work in Progress, currently has one available boss to fight, boss 2.
-![Alt text](/llopez020/Project-Lotus/media/controls.png?raw=true "")
+
+## Gameplay
+
+![Alt text](/media/controls.png?raw=true "Controls") <br/>
+![Alt text](/media/boss2_phase1.gif?raw=true "Boss 2, Phase 1") <br/>
+![Alt text](/media/boss2_phase2.gif?raw=true "Boss 2, Phase 2") <br/>
+![Alt text](/media/npc_interactions.gif?raw=true "Interacting with an NPC") <br/>
 
 
 ## Technologies
